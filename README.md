@@ -2,6 +2,8 @@
 
 This is the anonymized repository of  **AutoLog.**
 
+![1663063757857](image/README/1663063757857.png)
+
 The repository consists of multiple folders. The folder `/src` includes source code. The folder `/data` contains the generated demo data from AutoLog. The folder `/scripts` contain some useful scripts. The folder `/third-party` includes two open-source program analysis tools we adpated in this project. The folder `/build` contains some builded artifacts.
 
 ### Generated Datasets
