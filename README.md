@@ -32,6 +32,7 @@ INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem$SafeModeInfo: dfs.namen
 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem$SafeModeInfo: dfs.namenode.safemode.min.datanodes =  <*> 
 INFO org.apache.hadoop.hdfs.server.namenode.FSNamesystem$SafeModeInfo: dfs.namenode.safemode.extension     =  <*> 
 INFO org.apache.hadoop.hdfs.server.namenode.NNConf: ACLs enabled?  <*> 
+```
 
 ### Execution
 
